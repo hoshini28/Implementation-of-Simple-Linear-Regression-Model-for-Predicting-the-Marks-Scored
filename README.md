@@ -21,8 +21,7 @@ To write a program to implement the simple linear regression model for predictin
 6. Compare the graphs and hence we obtained the linear regression for the given data
 
 ## Program:
-~~~
-~~~
+
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
