@@ -22,6 +22,13 @@ To write a program to implement the simple linear regression model for predictin
 
 ## Program:
 ````
+/*
+Program to implement the simple linear regression model for predicting the marks scored.
+Developed by: Hoshini S 
+RegisterNumber:  2305003006
+*/
+````
+````python
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
